@@ -1,12 +1,1 @@
-## Hi there!
-
-Welcome to my GitHub profile! I'm passionate about coding and learning new things.
-
-## Support
-
-If you find any of my projects interesting or useful, consider supporting them by:
-
-- Starring the repositories!
-- Sharing them with others!
-
-Thanks for stopping by!
+<img src="https://github-readme-stats.vercel.app/api?username=sunilsaini87&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
